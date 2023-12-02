@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    height: 400px;
+}
+
+#search-container {
+    margin-top: 10px;
+}
+
+#searchInput {
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+    cursor: pointer;
+}
